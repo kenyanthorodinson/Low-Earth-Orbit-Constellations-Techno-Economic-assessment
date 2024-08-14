@@ -11,5 +11,5 @@ OneWeb and Kuiper"
 
 # Contents
 The program entails an Engineering Model for the Operational Mechanics of each of the Constellations
-A geo-informational model that extracts population data from a global raster dataset and an Intersecting program that
+A geo-information model that extracts population data from a global raster dataset and an Intersecting program that
 matches keys from both the latter models.
